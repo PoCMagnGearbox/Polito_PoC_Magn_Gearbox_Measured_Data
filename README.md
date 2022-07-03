@@ -22,6 +22,7 @@ Two folders are provided whether the Magnetic Gear is used as Torque multiplier 
 					- Radial and Tangetial flux are provided for the Flux_Time case.
 
 NOTE:
+	
 	-For Flux_Time case:
 		-Name of each test refers to the applied speed:
 			- Into Torque_set_on_ring, Ring speed is takent into account
