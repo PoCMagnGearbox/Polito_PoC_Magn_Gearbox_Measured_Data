@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-- family-names: "Bot"
-  given-names: "Hew"
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github/linguist"
+- family-names: "N."
+  given-names: "La Bella"
+- family-names: "L."
+  given-names: "Dimauro"
+title: "Open Research Magnetic Gear Polito PoC"
+version: 1.0
+#doi: 10.5281/zenodo.1234
+date-released: 2022-04-19
+url: "https://github.com/PoCMagnGearbox/Polito_PoC_Magn_Gearbox_Measured_Data.git"
