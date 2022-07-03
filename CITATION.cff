@@ -3,10 +3,13 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "La Bella"
   given-names: "N."
+  #orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: "Dimauro"
   given-names: "L."
+  #orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: "Oggeri"
   given-names: "S."
+  #orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Open Research Magnetic Gear Polito PoC"
 version: 1.0
 date-released: 2022-04-19
