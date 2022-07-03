@@ -7,6 +7,12 @@ authors:
   given-names: "Dimauro"
 - family-names: "Stefano"
   given-names: "Oggeri"
+- family-names: "Maurizio"
+  given-names: "Repetto"
+- family-names: "Elvio"
+  given-names: "Bonisoli"
+- family-names: "Paolo"
+  given-names: "Squillari"
 title: "Open Research Magnetic Gear Polito PoC"
 version: 1.0
 #doi: 10.5281/zenodo.1234
