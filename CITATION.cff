@@ -1,8 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: La Bella, Dimauro, Oggeri, Repetto, Bonisoli, Squillari
-    given-names: Nicola, Luca, Stefano, Maurizio, Elvio, Paolo
+  - family-names: N. La Bella, L. Dimauro, S. Oggeri, M. Repetto, E. Bonisoli, P. Squillari
     #orcid: https://orcid.org/0000-0003-4925-7248
 title: "Open Research Magnetic Gear Polito PoC"
 version: 1.0
